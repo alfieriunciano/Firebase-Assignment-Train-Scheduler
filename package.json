@@ -1,0 +1,20 @@
+{
+  "name": "Firebase-Assignment-Train-Scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfieriunciano/Firebase-Assignment-Train-Scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfieriunciano/Firebase-Assignment-Train-Scheduler/issues"
+  },
+  "homepage": "https://github.com/alfieriunciano/Firebase-Assignment-Train-Scheduler#readme"
+}
